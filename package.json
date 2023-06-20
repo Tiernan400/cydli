@@ -1,7 +1,7 @@
 {
   "name": "cydli",
   "version": "1.0.0",
-  "description": "Chess Interface. Can run Zelpha & Stockfish.",
+  "description": "Chess Interface. Can run Stockfish & other UCI chess engines.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."

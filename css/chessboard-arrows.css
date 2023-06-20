@@ -1,0 +1,13 @@
+#primary-canvas, #drawing-canvas, #board1{
+    position: absolute; 
+    top: 0px; 
+    left: 0px;
+}
+
+#primary-canvas, #drawing-canvas {
+    opacity: 0.8;
+    padding: 2px;
+    z-index: 3;
+}
+
+#primary-canvas { z-index: 2; }
